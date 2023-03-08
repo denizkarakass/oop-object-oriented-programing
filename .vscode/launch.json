@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "employee.main",
+            "projectName": "oop-object-oriented-programing_70e3b65e"
+        },
+        {
+            "type": "java",
             "name": "Siniflar",
             "request": "launch",
             "mainClass": "Siniflar",
